@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667421194479",
+    "firebase_url": "https://fightapp-889ed.firebaseio.com",
+    "project_id": "fightapp-889ed",
+    "storage_bucket": "fightapp-889ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667421194479:android:58b1b28c076203fc8e431a",
+        "android_client_info": {
+          "package_name": "com.mpmeireles.fightapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667421194479-2v5jdttj4583o6gtg6j1ctu9mt0ahklq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mpmeireles.fightapp",
+            "certificate_hash": "778602f3e8e5ed515d4de57836368eb1f63c422b"
+          }
+        },
+        {
+          "client_id": "667421194479-brl6jr2iu04ilm7fap1t8jn26kbc8s65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QPssFJgX3AwDPzY2OQ46cCNJ0G9_oL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667421194479-brl6jr2iu04ilm7fap1t8jn26kbc8s65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
