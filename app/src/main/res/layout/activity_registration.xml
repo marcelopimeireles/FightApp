@@ -18,12 +18,12 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Male">
+            android:text="Fighter">
         </RadioButton>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Female">
+            android:text="Spactator">
         </RadioButton>
     </RadioGroup>
     <EditText
